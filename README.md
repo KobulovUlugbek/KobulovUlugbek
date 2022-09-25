@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Ulugbek
 
+### I'm FrontEnd Developer 
+
+- ❤️ I like to write code
+- 😄 I want to deepen my knowledge of JavaScript, so I'm now learning a lot of JavaScript 🔭
+
+
 <!--
 **KobulovUlugbek/KobulovUlugbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
