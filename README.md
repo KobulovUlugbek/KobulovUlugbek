@@ -2,8 +2,8 @@
 
 ### I'm FrontEnd Developer 
 
-- ❤️   I like to write code
-- 😄   I want to deepen my knowledge of JavaScript, so I'm now learning a lot of JavaScript 🔭
+- ❤️      I like to write code
+- 😄      I want to deepen my knowledge of JavaScript, so I'm now learning a lot of JavaScript 🔭
 
 
 <!--
