@@ -2,7 +2,7 @@
 
 ### I'm German speaking Front-End Developer 
 
-- 🔭     My Skills -> Javascript, Angular, React, Typescript, HTML, CSS, Bootstrap, Firebase, API's, Scrum, Git, Material Design.
+- 🔭     My Skills -> Javascript, Angular, React, Vue, Typescript, HTML, CSS, Bootstrap, Firebase, API's, Scrum, Git, Material Design.
 <!--
 **KobulovUlugbek/KobulovUlugbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
