@@ -13,9 +13,19 @@ Leveraging a comprehensive set of technologies to bring ideas to life:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- **Design & Styling**: HTML, CSS, Bootstrap, Material Design, Ant Design
-- **Back-End & Database**: Firebase, GraphQL
-- **Tools & Methodologies**: API's, Scrum, Git
+- **Design & Styling**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+
+- **Back-End & Database**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+- **Tools & Methodologies**: ![APIs](https://img.shields.io/badge/-APIs-0298C3?style=flat-square)
+![Scrum](https://img.shields.io/badge/-Scrum-009688?style=flat-square&logo=scrumalliance&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 - GitHub: [@KobulovUlugbek](https://github.com/KobulovUlugbek)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulugbek-kobulov-698196287/)
