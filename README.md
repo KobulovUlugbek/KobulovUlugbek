@@ -1,16 +1,16 @@
-# Hello, I'm Ulugbek! 👋
+# Hallo, ich bin Ulugbek! 👋
 
-## 🌐 Multilingual Front-End Developer
+## 🌐 Mehrsprachiger Front-End-Entwickler
 
-Welcome to my space on GitHub! I'm a front-end developer fluent in German and passionate about building seamless, user-friendly web applications. With a knack for detail and an eye for design, I aim to bridge the gap between functional code and aesthetic appeal.
+Willkommen in meinem Bereich auf GitHub! Als Front-End-Entwickler, der fließend Deutsch spricht, habe ich eine Leidenschaft für die Entwicklung von nahtlosen und benutzerfreundlichen Webanwendungen. Mit einem Auge fürs Detail und einem Sinn für Design strebe ich danach, Design und Funktion harmonisch zu vereinen.
 
-### 🛠️ My Toolbox
+### 🛠️ Meine Werkzeugkiste
 
-Leveraging a comprehensive set of technologies to bring ideas to life:
+Mit einem umfassenden Set an Technologien belebe ich Ideen:
 
 ## Tools & Technologien
 
-- **Languages & Frameworks**: 
+- **Sprachen & Frameworks**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -33,12 +33,9 @@ Leveraging a comprehensive set of technologies to bring ideas to life:
   ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
   ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-
 - GitHub: [@KobulovUlugbek](https://github.com/KobulovUlugbek)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulugbek-kobulov-698196287/)
 
-
 ---
 
-💡 "Strive to build things that make a difference!" - Ulugbek
-
+💡 "Strebe danach, Dinge zu erschaffen, die einen Unterschied machen!" - Ulugbek
