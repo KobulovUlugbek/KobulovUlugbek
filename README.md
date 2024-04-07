@@ -13,15 +13,6 @@ Leveraging a comprehensive set of technologies to bring ideas to life:
 - **Back-End & Database**: Firebase, GraphQL
 - **Tools & Methodologies**: API's, Scrum, Git
 
-### 🔍 Current Focus
-
-- 🔭 I'm currently working on expanding my portfolio with unique, cutting-edge web applications.
-- 🌱 Learning more about serverless architectures and how to integrate them with front-end frameworks.
-
-### 🤝 Let's Connect
-
-I'm always on the lookout for new challenges and opportunities to collaborate. Whether it's a project you'd like to discuss or you just want to say hi, feel free to reach out!
-
 - GitHub: [@KobulovUlugbek](https://github.com/KobulovUlugbek)
 - LinkedIn: https://www.linkedin.com/in/ulugbek-kobulov-698196287/
 
