@@ -1,5 +1,11 @@
 # Hallo, ich bin Ulugbek! 👋
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RuyRun.RuyRun" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ulugbek!;" />
+</h1>
+
 ## 🌐 Mehrsprachiger Front-End-Entwickler
 
 Willkommen in meinem Bereich auf GitHub! Als Front-End-Entwickler, der fließend Deutsch spricht, habe ich eine Leidenschaft für die Entwicklung von nahtlosen und benutzerfreundlichen Webanwendungen. Mit einem Auge fürs Detail und einem Sinn für Design strebe ich danach, Design und Funktion harmonisch zu vereinen.
