@@ -43,18 +43,26 @@ Mit einem umfassenden Set an Technologien belebe ich Ideen:
 
 💡 "Strebe danach, Dinge zu erschaffen, die einen Unterschied machen!" - Ulugbek
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KobulovUlugbek&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobulovUlugbek&layout=compact&theme=tokyonight)
+# Willkommen auf meinem GitHub-Profil!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+## 🔧 Technologien & Werkzeuge
+// Deine Technologien und Werkzeuge
+
+## 📊 GitHub Statistiken
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KobulovUlugbek&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobulovUlugbek&layout=compact&theme=tokyonight)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KobulovUlugbek)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophäen
+[![trophy](https://github-profile-trophy.vercel.app/?username=KobulovUlugbek)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KobulovUlugbek&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📈 Aktivitätsgraph
+[![KobulovUlugbek's github activity graph](https://activity-graph.herokuapp.com/graph?username=KobulovUlugbek&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧍 Besucherzähler
+![Visitor Count](https://profile-counter.glitch.me/KobulovUlugbek/count.svg)
+
 
