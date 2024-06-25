@@ -42,3 +42,5 @@ Mit einem umfassenden Set an Technologien belebe ich Ideen:
 ---
 
 💡 "Strebe danach, Dinge zu erschaffen, die einen Unterschied machen!" - Ulugbek
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KobulovUlugbek&theme=dark&border_radius=6.3&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
