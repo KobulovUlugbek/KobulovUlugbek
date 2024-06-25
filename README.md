@@ -46,5 +46,15 @@ Mit einem umfassenden Set an Technologien belebe ich Ideen:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KobulovUlugbek&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KobulovUlugbek&layout=compact&theme=tokyonight)
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
