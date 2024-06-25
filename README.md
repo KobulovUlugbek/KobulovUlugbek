@@ -42,3 +42,5 @@ Mit einem umfassenden Set an Technologien belebe ich Ideen:
 ---
 
 💡 "Strebe danach, Dinge zu erschaffen, die einen Unterschied machen!" - Ulugbek
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KobulovUlugbek=anuraghazra&show_icons=true&theme=radical)
