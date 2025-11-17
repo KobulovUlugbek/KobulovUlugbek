@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ulugbek!;" />
 </h1>
 
-## 🌐 Mehrsprachiger Frontend- & WordPress-Entwickler
+## 🌐 Mehrsprachiger Frontend-, WordPress- & Django-Entwickler
 
 Willkommen auf meinem GitHub-Profil.  
-Ich entwickle moderne, performante und zugängliche Webanwendungen – von Single-Page-Apps über WordPress-Projekte bis hin zu APIs mit Python & Django – mit Fokus auf saubere Architektur, wiederverwendbare Komponenten und ein stimmiges UI/UX-Design.
+Ich entwickle moderne, performante und zugängliche Webanwendungen – von Single-Page-Apps mit React/Angular und Tailwind CSS & daisyUI über WordPress-Projekte bis hin zu APIs mit Python & Django – mit Fokus auf saubere Architektur, wiederverwendbare Komponenten und ein stimmiges UI/UX-Design.
 
-Mit einem Auge fürs Detail und einem klaren Qualitätsanspruch verbinde ich Design, Funktionalität und Struktur zu skalierbaren Frontend-Lösungen.
+Mit einem Auge fürs Detail und einem klaren Qualitätsanspruch verbinde ich Design, Funktionalität und Struktur zu skalierbaren Lösungen.
 
 ---
 
@@ -32,11 +32,13 @@ Mit einem Auge fürs Detail und einem klaren Qualitätsanspruch verbinde ich Des
 ![REST API](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=cloud&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-### 🎨 Design & Styling
+### 🎨 Design, Styling & UI Libraries
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![daisyUI](https://img.shields.io/badge/-daisyUI-4B5563?style=flat-square&logo=daisyui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-0081CB?style=flat-square&logo=angular&logoColor=white)
