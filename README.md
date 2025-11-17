@@ -7,7 +7,7 @@
 ## 🌐 Mehrsprachiger Frontend- & WordPress-Entwickler
 
 Willkommen auf meinem GitHub-Profil.  
-Ich entwickle moderne, performante und zugängliche Webanwendungen – von Single-Page-Apps bis hin zu WordPress-Projekten – mit Fokus auf saubere Architektur, wiederverwendbare Komponenten und ein stimmiges UI/UX-Design.
+Ich entwickle moderne, performante und zugängliche Webanwendungen – von Single-Page-Apps über WordPress-Projekte bis hin zu APIs mit Python & Django – mit Fokus auf saubere Architektur, wiederverwendbare Komponenten und ein stimmiges UI/UX-Design.
 
 Mit einem Auge fürs Detail und einem klaren Qualitätsanspruch verbinde ich Design, Funktionalität und Struktur zu skalierbaren Frontend-Lösungen.
 
@@ -19,6 +19,8 @@ Mit einem Auge fürs Detail und einem klaren Qualitätsanspruch verbinde ich Des
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
